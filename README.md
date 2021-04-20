@@ -16,6 +16,7 @@ I plan to create applications for
 * presentations (.odp) I am scared by that, but I am by far not there...
 * spreadsheets (.ods) I am looking forward to this. I like implementing logic (wich is in there, I guess... rarely use them)
 * images/graphics (.odg, all "common" image formats: png, ...)
+* some kind of calender. Maybe in addition to an e-mail program?
 
 That is a lot of work.
 I am a studend.
